@@ -6,6 +6,7 @@ Representants can view citizens's documents.
 The app has a friendly and easy to use GUI and a database, which stores user information and documents.
 
 Future improvement:
+
 Handling multiple users​
 
 Handling outdated documents​
